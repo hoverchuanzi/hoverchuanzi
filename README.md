@@ -1,6 +1,6 @@
 # Hi I'm hoverchuanzi 👋
 
-###  be better developer
+###  北京起了风 就有蓝天白云
 <!--
 **hoverchuanzi/hoverchuanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
